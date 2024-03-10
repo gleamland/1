@@ -1,0 +1,6 @@
+Fitur:
+- CS popup
+- Newletter form
+- Analytics
+- Media social
+- Whatsapp
