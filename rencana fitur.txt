@@ -3,3 +3,4 @@ Fitur:
 - Newletter form
 - Analytics
 - Media social
+- Whatsapp
